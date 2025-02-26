@@ -18,7 +18,7 @@ Responsive design for smooth user experience
 
 Clone the repository:
 
-git clone https://github.com/your-username/etch-a-sketch.git
+git clone https://github.com/TshekoO/Etch-a-Sketch.git
 
 Navigate to the project directory:
 
@@ -34,7 +34,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contact
 
-For any inquiries, reach out via email at your-email@example.com or open an issue in the repository.
+For any inquiries, reach out via email at tshekoogotlhe101@gmail.com or open an issue in the repository.
 
 Happy Sketching! 🎨
 
